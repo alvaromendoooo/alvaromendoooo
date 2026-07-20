@@ -1,16 +1,100 @@
-## Hi there 👋
+<div align="center">
+<!-- Typing animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6C5CE7&center=true&vCenter=true&width=600&lines=Hi%2C+I%27m+%C3%81lvaro+Mendo+%F0%9F%91%8B;Software+Developer;Learning+Rust;Building+cool+stuff+%E2%9C%A8" alt="Typing SVG" />
+<br/>
+<!-- Top banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=%C3%81lvaro%20Mendo&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Don%27t%20fear%20the%20past%2C%20because%20every%20step%20has%20shaped%20who%20you%20are%20today&descAlignY=55&descSize=20" width="100%"/>
+</div>
 
-<!--
-**alvaromendoooo/alvaromendoooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```yaml
+name: "Álvaro Mendo Martín"
+location: "Plasencia, Spain"
+occupation: "Backend developer"
+current_studies: "B.Sc. in Software Engineering - University Escuela Politécnica"
+focused_on: "Backend, AI, DevOps"
+```
+
+---
+
+### 🛠️ Principal Tech Stack & Tools
+
+<div align="center">
+
+<!-- PLACEHOLDER: add or remove badges based on your real skills -->
+<!-- Full icon list available at https://skillicons.dev -->
+<img src="https://skillicons.dev/icons?i=ts,react,python,spring,cpp,tailwind,git,github,docker,mysql,postgres,linux,aws,elixir,flask,githubactions,kubernetes,rabbitmq&theme=dark" />
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+ 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/alvaromendoooo/Tree-Detector">🌳 Tree-Detector</a></h3>
+      <p>Computer vision project built with OpenCV, TensorFlow/Keras and YOLOv11s to detect and classify plant/tree species (peach, grapevine, olive, tomato, pepper, orange, plum, fig, nectarine) from images — with applications in precision agriculture and crop monitoring.</p>
+      <p>
+        <img src="https://img.shields.io/github/languages/top/alvaromendoooo/Tree-Detector?style=flat-square&color=6C5CE7" />
+        <img src="https://img.shields.io/github/stars/alvaromendoooo/Tree-Detector?style=flat-square&color=6C5CE7" />
+        <img src="https://img.shields.io/github/last-commit/alvaromendoooo/Tree-Detector?style=flat-square&color=6C5CE7" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/agro-predict-tfg-2026">🌾 Agro Predict</a></h3>
+      <p><i>Bachelor's thesis (TFG) project predicting crop yields using hybrid infraestructure and DevOps env</i></p>
+      <p>
+        Organization project with a bunch of projects serving as microservices for the project's infraestructure
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
+### 🎓 Education & Future Plans
+
+| 📚 Education | 📅 Timeline | 🏷️ Status |
+|---|---|---|
+| Bachelor's Software Engineer | [2022 - 2026] | ✅ |
+| Master's Degree in DevOps | [2026-2027] | 🔜 Planned |
+| AWS & AZURE Cloud Certification | End of 2026 | 🎯 Goal |
+
+---
+
+### 🌐 Connect with me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/%C3%A1lvaro-mendo-418042333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:alvaromendobusiness@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+---
+
+### 💖 Support my work
+
+<div align="center">
+
+<a href="https://github.com/sponsors/YOUR_USERNAME"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white"/></a>
+<a href="https://buymeacoffee.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a>
+<a href="https://ko-fi.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+
+*I allways try to improve customers life with my problem's solutions. Dedication and consistency are the best words to describe my work ethic. 24/7 learner trying to addapt to new tech.*
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=alvaromendoooo&label=Profile%20Views&color=6C5CE7&style=flat" />
+</div>
