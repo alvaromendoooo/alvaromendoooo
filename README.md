@@ -6,7 +6,6 @@
   <a href="https://personal-portfolio-overcome1.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-visit-1e2327?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/alvaromendoooo"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/alvaromendoooo"><img alt="X" src="https://img.shields.io/badge/X-follow-000000?style=for-the-badge&logo=x&logoColor=white"></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=alvaromendoooo&label=Profile%20views&color=0969da&style=for-the-badge">
 </p>
 
 ---
